@@ -1,0 +1,9 @@
+{
+    "root": "/data/wangyuhao/datasets/",
+    "name": "sigidwiki-sw-sig",
+    "desc": "hortwave signals from www.sigidwiki.com",
+    "src_dir": "sigidwiki-sw-sig/src/",
+    "proc_dir": "sigidwiki-sw-sig/proc/",
+    "dir": "sigidwiki-sw-sig/raw/",
+    "num_classes": 5
+}
